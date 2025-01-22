@@ -1,2 +1,3 @@
-# Oct2024_data_week_11
-Data Bootcamp Week 11 HM-data_collection
+# Unit 11 Homework: Mission to Mars
+
+The homework instructions and requirements are located in Canvas (or in the 08-Canvas folder for those cohorts not on Canvas).
